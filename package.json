@@ -1,0 +1,17 @@
+{
+  "name": "google-apis-example",
+  "version": "0.0.1",
+  "description": "ERROR: No README.md file found!",
+  "main": "app.js",
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "googleapis": "~0.4.3",
+    "hbs": "~2.3.1",
+    "express": "~3.3.5"
+  },
+  "devDependencies": {
+    "debug": "~0.7.2"
+  }
+}
