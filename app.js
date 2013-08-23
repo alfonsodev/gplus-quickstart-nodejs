@@ -98,4 +98,5 @@ googleapis
     .execute(function(err, gPlusClient) {
         client = gPlusClient;
         app.listen(app.get('port'));
+        debug('Listening on port ' + app.get('port') + ' ...');
     });
